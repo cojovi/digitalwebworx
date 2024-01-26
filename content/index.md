@@ -11,7 +11,7 @@ main:
 ---
 cta:
 - Some Of Our Work
-- /get-started
+- /articles
 secondary:
 - Join the Conversation →
 - /blog
