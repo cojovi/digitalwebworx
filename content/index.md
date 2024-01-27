@@ -11,10 +11,10 @@ main:
 ---
 cta:
 - TESTING
-- /content
+- https://blog.cojovi.com/articles
 secondary:
 - Join the Conversation →
-- /blog
+- https://blog.cojovi.com/articles
 snippet: 
 - brew install coffee@latest --developer-mode
 - git commit -m "Initiate world-class web development" --push --force
