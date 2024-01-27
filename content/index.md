@@ -10,7 +10,7 @@ main:
 ::block-hero
 ---
 cta:
-- TESTING
+- Check Out Our Blog
 - https://blog.cojovi.com/articles
 secondary:
 - Join the Conversation →
