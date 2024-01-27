@@ -19,11 +19,14 @@
     "@nuxtjs/sitemap": "^5.0.5",
     "@types/node": "^20.8.2",
     "nuxt": "^3.8.0",
-    "nuxt-gtag": "^1.1.2",
     "nuxt-simple-robots": "4.0.0-rc.13"
   },
   "dependencies": {
     "@nuxthq/studio": "^1.0.9",
-    "@vercel/analytics": "^1.1.1"
+    "@vercel/analytics": "^1.1.1",
+    "c12": "^1.6.1",
+    "consola": "^3.2.3",
+    "defu": "^6.1.4",
+    "ignore": "^5.3.0"
   }
 }

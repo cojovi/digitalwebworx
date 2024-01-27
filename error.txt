@@ -1,0 +1,9 @@
+Content Document Document not found
+
+ℹ Vite client warmed up in 22355ms                                                     7:39:45 PM
+✔ Nitro built in 18397 ms                                                        nitro 7:39:48 PM
+ℹ Vite server warmed up in 26333ms                                                     7:39:51 PM
+[Vue warn]: Property "document" was accessed during render but is not defined on instance.
+[nuxt] Your project has layouts but the `<NuxtLayout />` component has not been used.
+[Vue warn]: Property "document" was accessed during render but is not defined on instance.
+[nuxt] Your project has layouts but the `<NuxtLayout />` component has not been used.

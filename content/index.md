@@ -10,8 +10,8 @@ main:
 ::block-hero
 ---
 cta:
-- Some Of Our Work
-- /articles
+- TESTING
+- /content
 secondary:
 - Join the Conversation →
 - /blog
