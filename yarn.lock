@@ -754,7 +754,7 @@
     pinceau "^0.18.8"
     ufo "^1.1.1"
 
-"@nuxt/content@^2.8.5":
+"@nuxt/content@^2.11.0", "@nuxt/content@^2.8.5":
   version "2.11.0"
   resolved "https://registry.npmjs.org/@nuxt/content/-/content-2.11.0.tgz"
   integrity sha512-bHk4Vs+9k94z9WDdQcjTKWeXEkHiRsatTPx/914okegKaWz3yntt3x6NUPv6Ch3zI5JJZvepqbVPoWxuySFmmQ==
