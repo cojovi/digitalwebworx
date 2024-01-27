@@ -7,10 +7,10 @@ export default defineNuxtConfig({
     '@nuxthq/studio',
     '@nuxtjs/plausible',
     '@nuxtjs/sitemap',
-    'nuxt-simple-robots',
-    '@nuxt/content'
+    'nuxt-simple-robots'
   ],
 
+  // Adding the chat widget script
   head: {
     script: [
       {
